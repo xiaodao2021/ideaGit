@@ -4,6 +4,7 @@ public class hello {
         System.out.println("idea hello");
         System.out.println("idea hello--1");
         System.out.println("idea hello--2");
+        System.out.println("idea hello--3");
 
     }
 }
