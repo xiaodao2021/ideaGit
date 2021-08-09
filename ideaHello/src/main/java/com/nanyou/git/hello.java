@@ -6,5 +6,6 @@ public class hello {
         System.out.println("idea hello--2");
         System.out.println("idea hello--3");
         System.out.println("创建分支");
-    }
+        System.out.println("主干添加");
+}
 }
