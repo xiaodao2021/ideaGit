@@ -12,5 +12,7 @@ public class hello {
         
         System.out.println("在线修改");
         System.out.println("克隆之后");
+        System.out.println("克隆之后");
+        System.out.println("200克隆之后");
     }
 }
